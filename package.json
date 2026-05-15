@@ -70,7 +70,7 @@
     "puppeteer": "25.0.2",
     "puppeteer-core": "25.0.2",
     "rimraf": "6.1.2",
-    "rollup": "4.55.1",
+    "rollup": "4.60.4",
     "rollup-plugin-dts": "6.4.1",
     "snap-shot-it": "^7.9.10",
     "ts-node": "^10.9.2",
